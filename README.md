@@ -1,1 +1,1 @@
-# Simple springboot application
+# springboot application
