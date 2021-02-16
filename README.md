@@ -1,1 +1,1 @@
-# prescription
+# Simple springboot application
